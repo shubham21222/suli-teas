@@ -1,0 +1,17 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/FAQ/page": "app/FAQ/page.js",
+  "/about-us/page": "app/about-us/page.js",
+  "/cart/page": "app/cart/page.js",
+  "/components/contact-us/page": "app/components/contact-us/page.js",
+  "/components/products/page": "app/components/products/page.js",
+  "/contact-us/page": "app/contact-us/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/order-track/page": "app/order-track/page.js",
+  "/privacy-policy/page": "app/privacy-policy/page.js",
+  "/productD/[slug]/page": "app/productD/[slug]/page.js",
+  "/return-policy/page": "app/return-policy/page.js",
+  "/service/page": "app/service/page.js",
+  "/shop-teas/page": "app/shop-teas/page.js",
+  "/page": "app/page.js"
+}
