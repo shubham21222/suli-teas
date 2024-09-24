@@ -1,9 +1,10 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {
-    distDir: 'build', // Custom folder for build output
+const nextConfig = {}
+
+module.exports = nextConfig
+// next.config.js
+module.exports = {
     images: {
-        domains: ['onlinebooktrip.com'],
+      domains: ['onlinebooktrip.com'],
     },
 };
-
-module.exports = nextConfig;
